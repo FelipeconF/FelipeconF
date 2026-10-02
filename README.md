@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🛠️ Herramientas</h3>
+<h3 align="left"></h3>
 
 <img align="right" height="200" src="https://media.giphy.com/media/oNJ3am00JCroA/giphy.gif" alt="anime gif" />
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">📫 Contacto</h3>
+<h3 align="left"></h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank">
