@@ -8,7 +8,7 @@
 
 <h3 align="left"></h3>
 
-<img align="right" height="200" src="https://media.giphy.com/media/oNJ3am00JCroA/giphy.gif" alt="anime gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/ONZ0MrIcEdNsRqFiPn/giphy.gif" alt="anime gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
