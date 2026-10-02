@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me interesa el análisis de datos, la economía y la tecnología.</p>
+<p align="left">My portafolio.</p>
 
 ###
 
