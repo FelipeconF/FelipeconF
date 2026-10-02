@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🐍 Mi actividad</h3>
+<h3 align="left"></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
