@@ -22,4 +22,9 @@
   <img src="https://skillicons.dev/icons?i=linux,py,mysql,postgres,js,aws&perline=8" alt="Tecnologías"/>
 </p>
 
-![Snake animation](https://github.com/FelipeconF/FelipeconF/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left"> </h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
+</picture>
