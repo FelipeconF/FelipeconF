@@ -35,10 +35,10 @@
 <h3 align="left"></h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-monreal-hernández-/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo" />
   </a>
-  <a href="mailto:TU_CORREO@outlook.com" target="_blank">
+  <a href="mailto:fmonrea2@itam.mx" target="_blank">
     <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" height="45" alt="outlook logo" />
   </a>
   <a href="https://t.me/TU_USUARIO_TELEGRAM" target="_blank">
