@@ -1,28 +1,49 @@
-## Hi there! My name is Felipe. I´m a developer from Mexico 🇲🇽
+<h2 align="left">Hello! My name is Felipe. I´m a developer from México 🇲🇽</h2>
 
-<h3 align="left"> Contacto</h3>
-<p align="left">
+###
+
+<p align="left">Me interesa el análisis de datos, la economía y la tecnología.</p>
+
+###
+
+<h3 align="left">🛠️ Herramientas</h3>
+
+<img align="right" height="200" src="https://media.giphy.com/media/oNJ3am00JCroA/giphy.gif" alt="anime gif" />
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="sql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" alt="aws logo" />
+</div>
+
+###
+
+<h3 align="left">📫 Contacto</h3>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo" />
   </a>
-  <a href="mailto:fmonrea2@outlook.com">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Outlook" width="40" height="40"/>
+  <a href="mailto:TU_CORREO@outlook.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/microsoft-outlook-2019.png" height="45" alt="outlook logo" />
   </a>
-  <a href="https://t.me/FelipeconF" target="_blank">
-    <img src="https://img.icons8.com/color/48/telegram-app.png" alt="Telegram" width="40" height="40"/>
+  <a href="https://t.me/TU_USUARIO_TELEGRAM" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/TU_ID_DEL_GIF/giphy.gif](https://giphy.com/gifs/manga-egg-b-oNJ3am00JCroA)" width="350" alt="anime gif"/>
-</p>
+<br clear="right"/>
 
-<h2>  &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,py,mysql,postgres,js,aws&perline=8" alt="Tecnologías"/>
-</p>
+###
 
-<h3 align="left"> </h3>
+<h3 align="left">🐍 Mi actividad</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
