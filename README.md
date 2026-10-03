@@ -52,7 +52,7 @@
 
 <h3 align="left"></h3>
 
-<pictureF
+<pictureF>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake.svg" />
   <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake.svg" />
