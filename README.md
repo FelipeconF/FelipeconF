@@ -52,8 +52,8 @@
 
 <h3 align="left"></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
-  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
+<pictureF
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/FelipeconF/FelipeconF/output/github-snake.svg" />
 </picture>
